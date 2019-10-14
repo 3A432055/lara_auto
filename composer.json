@@ -3,13 +3,16 @@
     "authors": [
         {
             "name": "KUAN-HAO",
-            "email": "david860120@gmail.com",
-            "autoload": {
-                "psr-4": {
-                    "Demo\\": "./src/Demo"
-                }
-            }
+            "email": "david860120@gmail.com"
+
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Demo\\": "./src/Demo"
+        }
+    }
 }
+
+
