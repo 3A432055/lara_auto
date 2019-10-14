@@ -1,0 +1,15 @@
+{
+    "name": "chen/lara_auto",
+    "authors": [
+        {
+            "name": "KUAN-HAO",
+            "email": "david860120@gmail.com",
+            "autoload": {
+                "psr-4": {
+                    "Demo\\": "./src/Demo"
+                }
+            }
+        }
+    ],
+    "require": {}
+}
